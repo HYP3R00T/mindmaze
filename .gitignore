@@ -1,1 +1,6 @@
+# Virtual Environment
 .venv/
+
+# Exclude folders from syncing to GitHub
+mindmaze/00-09-secret/
+mindmaze/Excalidraw/

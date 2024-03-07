@@ -85,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "test2.md"
+                "file": "index.md"
               }
             }
           }
@@ -145,13 +147,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "74c064f28a8503aa",
+  "active": "df7673bb46d14871",
   "lastOpenFiles": [
-    "10-19-cyberspace",
+    "00-09-cyberspace/01 Languages/Python.md",
+    "00-09-cyberspace/01 Languages/dummy.md",
     "index.md",
+    "00-09-cyberspace/01 Languages",
     "test2.md",
+    "00-09-cyberspace",
     "Excalidraw/Drawing 2024-03-07 11.33.00.excalidraw.md",
-    "00-09-secret",
+    "90-99-secret",
     "Excalidraw"
   ]
 }

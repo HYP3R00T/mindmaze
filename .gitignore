@@ -2,5 +2,5 @@
 .venv/
 
 # Exclude folders from syncing to GitHub
-mindmaze/00-09-secret/
+mindmaze/90-99-secret/
 mindmaze/Excalidraw/

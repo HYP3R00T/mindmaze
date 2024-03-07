@@ -51,6 +51,7 @@ After spending hours surfing the internet, I stumbled upon tons of interesting s
 **Plugins**
 * [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
 * [Style Settings](https://github.com/mgmeyers/obsidian-style-settings)
+* [admonitions](https://github.com/javalent/admonitions)
 
 **Theme**
 * [Catppuccin for Obsidian](https://github.com/catppuccin/obsidian)

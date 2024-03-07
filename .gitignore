@@ -4,3 +4,4 @@
 # Exclude folders from syncing to GitHub
 mindmaze/90-99-secret/
 mindmaze/Excalidraw/
+mindmaze/.obsidian/

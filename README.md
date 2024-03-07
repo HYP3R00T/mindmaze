@@ -1,6 +1,6 @@
 # Mindmaze
 
-It is my `second brain` that leverages the power of Obsidian and mkdocs-material. 
+It is my `second brain` that leverages the power of Obsidian and Material for MkDocs. 
 
 ## Why?
 
@@ -20,8 +20,8 @@ After spending hours surfing the internet, I stumbled upon tons of interesting s
 ### Open in mkdocs
 
 * Prerequisites:
- * `python` with `pip`
- * Visual Studio Code - Optional
+   * `python` with `pip`
+   * Visual Studio Code - Optional
 * First clone it to your local machine.
     ```sh
     git clone https://github.com/HYP3R00T/mindmaze

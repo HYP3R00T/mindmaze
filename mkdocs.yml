@@ -66,4 +66,4 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/HYP3R00T
 extra_css:
-  - .stylesheets/extra.css
+  - stylesheets/extra.css

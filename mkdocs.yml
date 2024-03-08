@@ -7,21 +7,8 @@ theme:
     logo: material/graph
   name: "material"
   palette:
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      primary: black
-      accent: blue
-      toggle:
-        icon: material/toggle-switch
-        name: Switch to dark mode
-
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      primary: black
-      accent: blue
-      toggle:
-        icon: material/toggle-switch-off-outline
-        name: Switch to light mode
+    scheme: default
+    primary: custom
   font:
     text: Inter
     code: Source Code Pro
@@ -77,3 +64,5 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/HYP3R00T
+extra_css:
+  - .stylesheets/extra.css

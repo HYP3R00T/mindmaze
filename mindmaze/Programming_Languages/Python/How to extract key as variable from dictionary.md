@@ -1,4 +1,4 @@
-# How to extract key as variable from dictionary
+# How to extract key as variable from dictionary?
 ```python
 for key in my_dict:
     locals()[key] = my_dict[key]

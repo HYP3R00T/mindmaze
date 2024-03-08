@@ -52,6 +52,7 @@ After spending hours surfing the internet, I stumbled upon tons of interesting s
 * [Excalidraw](https://github.com/zsviczian/obsidian-excalidraw-plugin)
 * [Style Settings](https://github.com/mgmeyers/obsidian-style-settings)
 * [admonitions](https://github.com/javalent/admonitions)
+* [file-hider](https://github.com/Oliver-Akins/file-hider) - To hide custom stylesheets folder in Obsidian
 
 **Theme**
 * [Catppuccin for Obsidian](https://github.com/catppuccin/obsidian)

@@ -6,6 +6,7 @@
 - [Python Developer Roadmap](https://roadmap.sh/python)
 
 ## Quick Notes
-- [[How to extract key as variable from dictionary]]
+- [[Difference between json.dump() & json.dumps()]]
 - [[Export pip package lists (Platform independent)]]
+- [[How to extract key as variable from dictionary]]
 

@@ -53,6 +53,7 @@ After spending hours surfing the internet, I stumbled upon tons of interesting s
 * [Style Settings](https://github.com/mgmeyers/obsidian-style-settings)
 * [admonitions](https://github.com/javalent/admonitions)
 * [file-hider](https://github.com/Oliver-Akins/file-hider) - To hide custom stylesheets folder in Obsidian
+* [sort-and-permute-lines](https://github.com/Vinzent03/obsidian-sort-and-permute-lines)
 
 **Theme**
 * [Catppuccin for Obsidian](https://github.com/catppuccin/obsidian)

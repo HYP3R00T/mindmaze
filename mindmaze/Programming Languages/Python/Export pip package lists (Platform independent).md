@@ -1,4 +1,6 @@
 # Export pip package lists (Platform independent)
+First install `setuptools` using `pip install setuptools`
+
 ```python
 import pkg_resources
 

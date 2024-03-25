@@ -1,3 +1,8 @@
+---
+status: new
+icon: simple/python 
+---
+
 # Python
 
 ## Resources

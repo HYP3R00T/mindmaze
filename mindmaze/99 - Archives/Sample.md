@@ -1,4 +1,4 @@
-# My knowledge management system
+# My Knowledge Management System
 
 ### Sections
 
@@ -12,11 +12,11 @@
 - 07 - Archives (PARA)
 - 99 - Meta
 
-### Merge 
+### Merge
 
 - 05 - 06
 
-### My planned contents
+### My Planned Contents
 
 - Maps of Content
 - Personal (Letters, blog drafts and other info)

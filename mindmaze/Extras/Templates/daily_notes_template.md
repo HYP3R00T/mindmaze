@@ -4,4 +4,3 @@ tags:
 ---
 
 # Daily Notes
-

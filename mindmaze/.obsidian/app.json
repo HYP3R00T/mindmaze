@@ -2,9 +2,14 @@
   "readableLineLength": false,
   "propertiesInDocument": "hidden",
   "showLineNumber": true,
-  "trashOption": "local",
+  "trashOption": "none",
   "newFileLocation": "current",
   "attachmentFolderPath": "./attachments",
   "showInlineTitle": false,
-  "promptDelete": false
+  "promptDelete": false,
+  "userIgnoreFilters": [
+    "00 - Personal/$Temp/"
+  ],
+  "livePreview": false,
+  "alwaysUpdateLinks": true
 }

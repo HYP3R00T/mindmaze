@@ -11,8 +11,12 @@
             "id": "f039e1ae754ec91e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "04 - Daily Notes/20240422.md",
+                "mode": "source",
+                "source": true
+              }
             }
           }
         ]
@@ -65,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 244
   },
   "right": {
     "id": "50bbc1af6b914d51",
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "04 - Daily Notes/20240422.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "04 - Daily Notes/20240422.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "04 - Daily Notes/20240422.md"
               }
             }
           }
@@ -140,12 +146,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eee89602ee665bba",
+  "active": "f039e1ae754ec91e",
   "lastOpenFiles": [
-    "Untitled.md",
-    "99 - Archives/Sample.md",
+    "Untitled.canvas",
+    "04 - Daily Notes/20240422.md",
+    "Extras/Templates/test.md",
     "00 - Personal/$Temp/Trash",
     "00 - Personal/$Temp",
+    "Untitled.md",
+    "99 - Archives/Sample.md",
     "02 - Courses",
     "index.md",
     "04 - Daily Notes",
@@ -155,7 +164,6 @@
     "03 - Resources/Technology/Langauges",
     "03 - Resources/Technology",
     "03 - Resources",
-    "Extras/Templates/test.md",
     "@Secret/Some Answers.md",
     "@Secret/Sample.md",
     "99 - Archives/Operating System/@Operating System.md"

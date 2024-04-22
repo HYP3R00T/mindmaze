@@ -1,7 +1,8 @@
 # Virtual Environment
 .venv/
+.vscode/
 
 # Exclude folders from syncing to GitHub
-mindmaze/@Secret/
 mindmaze/@Excalidraw/
-mindmaze/.obsidian/
+mindmaze/00 - Personal/
+mindmaze/.trash/

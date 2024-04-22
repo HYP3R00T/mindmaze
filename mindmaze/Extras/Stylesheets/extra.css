@@ -1,0 +1,91 @@
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #181926;
+  --md-primary-fg-color--light: #1e2030;
+  --md-primary-fg-color--dark: #1e2030;
+  --md-primary-bg-color: #b7bdf8;
+  --md-primary-bg-color--light: #cad3f5;
+
+  --md-accent-fg-color: #cad3f5;
+  --md-accent-fg-color--transparent: #cad3f5;
+  --md-accent-bg-color: #ed8796;
+  --md-accent-bg-color--light: #ed8796;
+
+  --md-default-fg-color: #cad3f5;
+  --md-default-fg-color--light: #cad3f5;
+  --md-default-fg-color--lighter: #cad3f5;
+  --md-default-fg-color--lightest: #1e2030;
+  --md-default-bg-color: #24273a;
+  --md-default-bg-color--light: #1e2030;
+  --md-default-bg-color--lighter: #24273a;
+  --md-default-bg-color--lightest: #363a4f;
+
+  --md-code-fg-color: #cad3f5;
+  --md-code-bg-color: #181926;
+
+  --md-code-hl-color: #8aadf4;
+  --md-code-hl-color--light: #7dc4e4;
+
+  --md-code-hl-number-color: #ed8796;
+  --md-code-hl-special-color: #f5a97f;
+  --md-code-hl-function-color: #c6a0f6;
+  --md-code-hl-constant-color: #b7bdf8;
+  --md-code-hl-keyword-color: #8aadf4;
+  --md-code-hl-string-color: #a6da95;
+  --md-code-hl-name-color: #b7bdf8;
+  --md-code-hl-operator-color: #ee99a0;
+  --md-code-hl-punctuation-color: #cad3f5;
+  --md-code-hl-comment-color: #eed49f;
+  --md-code-hl-generic-color: #91d7e3;
+  --md-code-hl-variable-color: #8bd5ca;
+
+  --md-typeset-color: var(--md-default-fg-color);
+
+  --md-typeset-a-color: #8aadf4;
+
+  --md-typeset-del-color: #;
+  --md-typeset-ins-color: #;
+
+  --md-typeset-kbd-color: #;
+  --md-typeset-kbd-accent-color: #;
+  --md-typeset-kbd-border-color: #;
+
+  --md-typeset-mark-color: #;
+
+  --md-typeset-table-color: #;
+  --md-typeset-table-color--light: #;
+
+  --md-admonition-fg-color: #cad3f5;
+  --md-admonition-bg-color: #1e2030;
+
+  --md-warning-fg-color: #;
+  --md-warning-bg-color: #;
+
+  --md-footer-fg-color: #;
+  --md-footer-fg-color--light: #;
+  --md-footer-fg-color--lighter: #;
+  --md-footer-bg-color: #181926;
+  --md-footer-bg-color--dark: #;
+}
+
+h1,
+h2,
+h3,
+h4,
+.md-source__repository,
+.md-search__input,
+.md-header__topic {
+  font-family: var(--md-code-font);
+}
+
+.md-typeset blockquote {
+  border-left: 0.2rem solid #b7bdf8;
+  color: #f0c6c6;
+}
+
+.md-typeset blockquote em {
+  color: #a6da95;
+}
+
+hr {
+  border-color: #8aadf4;
+}

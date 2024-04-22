@@ -1,7 +1,7 @@
 {
   "files.exclude": {
+    ".vscode": true,
     ".venv": true,
-    "mindmaze\\.obsidian": true,
-    ".vscode": true
+    "mindmaze\\.obsidian": true
   }
 }

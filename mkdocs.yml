@@ -68,6 +68,9 @@ extra:
       link: https://github.com/HYP3R00T
   status:
     new: Recently added
+exclude_docs: |
+  .*
+  /Extras/Templates/
 extra_css:
-  - stylesheets/extra.css
+  - Extras/Stylesheets/extra.css
 copyright: Copyright &copy; 2024 hyperoot.dev

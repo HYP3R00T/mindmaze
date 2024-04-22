@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiHeartLine",
       "RiClipboardLine",
       "FasVectorSquare",
       "RiFolderShield2Line",
-      "RiPenNibLine",
-      "RiBookLine"
+      "RiPenNibLine"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +37,6 @@
   "04 - Daily Notes": "RiCalendarTodoLine",
   "03 - Resources": "RiBookLine",
   "Extras": "FasVectorSquare",
-  "02 - Courses": "RiClipboardLine"
+  "02 - Courses": "RiClipboardLine",
+  "00 - Personal/People/Suchi": "RiHeartLine"
 }

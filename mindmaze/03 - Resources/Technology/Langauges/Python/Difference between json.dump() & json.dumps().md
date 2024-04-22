@@ -1,3 +1,9 @@
+---
+tags:
+- python
+- json
+---
+
 # Difference between json.dump() & json.dumps()
 
 https://stackoverflow.com/a/32911421/16038271

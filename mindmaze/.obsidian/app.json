@@ -1,6 +1,6 @@
 {
   "readableLineLength": false,
-  "propertiesInDocument": "hidden",
+  "propertiesInDocument": "visible",
   "showLineNumber": true,
   "trashOption": "none",
   "newFileLocation": "current",
@@ -8,7 +8,7 @@
   "showInlineTitle": false,
   "promptDelete": false,
   "userIgnoreFilters": [
-    "00 - Personal/$Temp/"
+    "00 - Personal/"
   ],
   "livePreview": false,
   "alwaysUpdateLinks": true

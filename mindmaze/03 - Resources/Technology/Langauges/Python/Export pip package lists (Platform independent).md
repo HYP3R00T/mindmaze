@@ -1,3 +1,9 @@
+---
+tags:
+- python
+- pip
+---
+
 # Export pip package lists (Platform independent)
 First install `setuptools` using `pip install setuptools`
 

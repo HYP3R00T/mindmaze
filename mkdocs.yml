@@ -6,10 +6,14 @@ theme:
   icon:
     logo: material/graph
   name: "material"
+  # palette:
+  #   scheme: default
+  #   primary: custom
+  #   accent: custom
   palette:
-    scheme: default
-    primary: custom
-    accent: custom
+    scheme: slate
+    primary: black
+    accent: blue
   font:
     text: Inter
     code: Source Code Pro
@@ -17,6 +21,7 @@ theme:
     - navigation.instant
     - navigation.instant.progress
     - navigation.tracking
+    # - navigation.sections
     - navigation.path
     - navigation.indexes
     - navigation.top
@@ -25,6 +30,9 @@ theme:
     - navigation.footer
     - toc.follow
     - content.code.copy
+    # - search.suggest
+    # - search.highlight
+    - search.share
 plugins:
   - search
   - roamlinks
@@ -72,5 +80,5 @@ exclude_docs: |
   .*
   /Extras/Templates/
 extra_css:
-  - Extras/Stylesheets/extra.css
+  # - Extras/Stylesheets/extra.css
 copyright: Copyright &copy; 2024 hyperoot.dev

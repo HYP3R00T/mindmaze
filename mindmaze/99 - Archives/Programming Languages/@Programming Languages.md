@@ -1,2 +1,2 @@
 # Programming Languages
-- [[@Python]]
+- [[99 - Archives/Programming Languages/Python/@Python]]

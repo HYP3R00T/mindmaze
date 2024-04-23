@@ -1,6 +1,6 @@
 ---
 tags:
-	- daily_notes
+- daily_notes
 ---
 
 # Daily Notes

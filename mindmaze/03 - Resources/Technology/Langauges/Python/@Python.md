@@ -1,6 +1,7 @@
 ---
 tags:
 - python
+- language
 ---
 
 # Python

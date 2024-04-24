@@ -1,8 +1,13 @@
+---
+hide:
+  - navigation
+---
+
 # Mindmaze
 
 My second brain that leverages the power of Obsidian
 
-> [!important] GitHub Repo  
+> [!tip] GitHub Repo
 > [HYP3R00T/mindmaze](https://github.com/HYP3R00T/mindmaze)
 
 ## Why?

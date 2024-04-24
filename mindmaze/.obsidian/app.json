@@ -11,5 +11,6 @@
     "00 - Personal/"
   ],
   "livePreview": false,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "defaultViewMode": "preview"
 }

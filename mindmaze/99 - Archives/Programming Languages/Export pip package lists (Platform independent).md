@@ -16,4 +16,4 @@ with open('requirements.txt', 'w') as file:
         file.write(package.project_name + '\\n')
 ```
 
-Save it with any name and store it in the system environment to easy access
+Save it with any name and store it in the system environment to easy access.

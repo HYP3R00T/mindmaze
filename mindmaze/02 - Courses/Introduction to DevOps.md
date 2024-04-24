@@ -10,6 +10,14 @@ certification_link: https://coursera.org/share/d9b8383403fa098d5a310a694ae68c07
 completion_date: March 30, 2024
 ---
 
+#### Info
+
+- [Introduction to DevOps](https://www.coursera.org/learn/intro-to-devops)
+- [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
+- [Certificate](https://coursera.org/share/d9b8383403fa098d5a310a694ae68c07)
+
+---
+
 # Introduction to DevOps
 
 ## Week 1

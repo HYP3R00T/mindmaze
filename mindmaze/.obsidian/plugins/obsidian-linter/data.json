@@ -162,7 +162,7 @@
       "style": "consistent"
     },
     "two-spaces-between-lines-with-content": {
-      "enabled": true
+      "enabled": false
     },
     "unordered-list-style": {
       "enabled": false,
@@ -209,7 +209,7 @@
       "enabled": false
     },
     "remove-link-spacing": {
-      "enabled": false
+      "enabled": true
     },
     "remove-space-around-characters": {
       "enabled": false,

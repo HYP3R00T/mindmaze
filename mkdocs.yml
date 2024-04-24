@@ -11,9 +11,18 @@ theme:
   #   primary: custom
   #   accent: custom
   palette:
-    scheme: slate
-    primary: black
-    accent: blue
+    - scheme: default
+      accent: teal
+      primary: black
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - scheme: slate
+      accent: teal
+      primary: black
+      toggle:
+        icon: material/toggle-switch-off-outline
+        name: Switch to light mode
   font:
     text: Inter
     code: Source Code Pro
@@ -21,13 +30,14 @@ theme:
     - navigation.instant
     - navigation.instant.progress
     - navigation.tracking
+    - navigation.tabs
     # - navigation.sections
     - navigation.path
     - navigation.indexes
     - navigation.top
     - navigation.prune
     - navigation.indexes
-    - navigation.footer
+    # - navigation.footer
     - toc.follow
     - content.code.copy
     # - search.suggest
@@ -37,6 +47,11 @@ plugins:
   - search
   - roamlinks
   - callouts
+  - termynal:
+      title: shell
+      buttons: windows
+      prompt_literal_start:
+        - ">"
   - tags
 markdown_extensions:
   - footnotes
@@ -71,9 +86,14 @@ extra_javascript:
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
   - https://unpkg.com/mermaid/dist/mermaid.min.js
 extra:
+  generator: false
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/HYP3R00T
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/rajesh-kumar-das/
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/HYP3R00T
   status:
     new: Recently added
 exclude_docs: |

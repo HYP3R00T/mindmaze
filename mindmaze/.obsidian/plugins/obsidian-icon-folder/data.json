@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "RiMoneyRupeeCircleLine",
+      "RiQuillPenLine",
       "RiHeartLine",
       "RiClipboardLine",
-      "FasVectorSquare",
-      "RiFolderShield2Line",
-      "RiPenNibLine"
+      "FasVectorSquare"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -38,5 +38,7 @@
   "03 - Resources": "RiBookLine",
   "Extras": "FasVectorSquare",
   "02 - Courses": "RiClipboardLine",
-  "00 - Personal/People/Suchi": "RiHeartLine"
+  "00 - Personal/Suchi": "RiHeartLine",
+  "00 - Personal/Finance": "RiMoneyRupeeCircleLine",
+  "00 - Personal/Writings": "RiQuillPenLine"
 }

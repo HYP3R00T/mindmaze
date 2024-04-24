@@ -9,4 +9,10 @@ certification_link:
 completion_date: 
 ---
 
+- [Title]()
+- [Series]()
+- [Certificate]()
+
+---
+
 # Title

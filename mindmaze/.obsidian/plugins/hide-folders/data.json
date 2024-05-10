@@ -1,7 +1,8 @@
 {
-  "areFoldersHidden": true,
+  "areFoldersHidden": false,
   "matchCaseInsensitive": true,
   "attachmentFolderNames": [
-    "startsWith::$"
+    "startsWith::$",
+    "startsWith::00"
   ]
 }

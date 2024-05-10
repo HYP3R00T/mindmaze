@@ -3,7 +3,7 @@
 .vscode/
 
 # Exclude folders from syncing to GitHub
-mindmaze/@Excalidraw/
+mindmaze/Excalidraw/
 mindmaze/00 - Personal/
 mindmaze/.trash/
 mindmaze/04 - Daily Notes/

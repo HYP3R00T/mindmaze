@@ -1,1 +1,7 @@
+---
+tags:
+- projects
+- python
+---
+
 # Projects

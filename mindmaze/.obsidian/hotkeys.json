@@ -55,5 +55,14 @@
       ],
       "key": "O"
     }
+  ],
+  "obsidian-sort-and-permute-lines:sort-list-alphabetically": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "S"
+    }
   ]
 }

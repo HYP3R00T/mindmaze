@@ -99,3 +99,36 @@ completion_date:
 - `hostname` and `ifconfig` allow you to view the network configuration. You can test a network connection using `ping` and send and receive data using `curl` and `wget`.
 - Compression preserves storage space, speeds data transfer, and reduces system load.
 - `zip` compresses files and folders prior to archiving them. `tar` archives and compresses files and directories into a tarball. `unzip` unpacks and decompresses a zipped archive, and `tar` can also decompress and unpack a tar.gz archive.
+
+## Week 3
+
+### Shell Scripting
+
+- Shebang
+	- `#! interpreter [args]`
+- Shell variable
+	- `sample_var = some_value`, then `echo $sample_var`
+	- `read another_var`, then `echo $another_var` [This will read user input]
+- Filters, Pipes, & Variables
+	- `|` chain filters commands
+	- `set` list all shell variables
+	- `var_name=value` define shell variables
+	- `unset var_name` unset a variable
+	- `export var_name` to create environment variable
+- Metacharacters
+	- `#` - precedes a comment
+	- `;` - command separator
+	- `*` - filename expansion wildcard
+	- `?` - single character wildcard in filename expansion
+- Quoting
+	- `\` - escape unique character interpretation
+	- `" "` - interpret literally, but evaluate metacharacters
+	- `' '` - interpret literally
+- I/O redirection
+	- `>` - redirect output to the file
+	- `>>` - append output to the file
+	- `2>` - Redirect standard error to file
+	- `2>>` - Append standard error to file
+	- `<` - Redirect file contents to standard input
+- Command substitution
+	- `$(command)` or `` `command` ``

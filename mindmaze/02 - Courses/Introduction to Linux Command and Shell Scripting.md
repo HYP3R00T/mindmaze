@@ -12,7 +12,7 @@ certification_link:
 completion_date:
 ---
 
-- [Title](Introduction to Linux Command and Shell Scripting)
+- [Introduction to Linux Command and Shell Scripting](https://www.coursera.org/learn/hands-on-introduction-to-linux-commands-and-shell-scripting)
 - [IBM DevOps and Software Engineering Professional Certificate](https://www.coursera.org/professional-certificates/devops-and-software-engineering)
 - [Certificate]()
 

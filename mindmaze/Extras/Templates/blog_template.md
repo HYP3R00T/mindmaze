@@ -5,6 +5,7 @@ title:
 featured: false
 draft: true
 tags:
+- blog
 description:
 ---
 
